@@ -493,7 +493,9 @@ PlayerSettings:
   switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 0
   switchUseMicroSleepForYield: 1
+  switchEnableRamDiskSupport: 0
   switchMicroSleepForYieldTime: 25
+  switchRamDiskSpaceSize: 12
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -678,7 +680,7 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: be36f9a3-1887-43e1-a090-ce41a0ea1e77
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: 
